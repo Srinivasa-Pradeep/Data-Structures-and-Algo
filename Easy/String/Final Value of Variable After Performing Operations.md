@@ -104,6 +104,3 @@ The position of `++` or `--` (before or after `X`) doesn’t matter — both mod
 * **Time:** `O(n)`
 * **Space:** `O(1)`
 
----
-
-want me to add a one-line **mnemonic** for remembering the pattern (`++ = +1`, `-- = -1`) like how you like keeping in your notes, da?
